@@ -1,7 +1,6 @@
-# Ejercicio Guiado: Flujo básico de trabajo con Git y GitHub
+# Ejercicio Guiado: Flujo de trabajo con Git y GitHub
 
-## Objetivo del ejercicio
-Practicar el flujo real de trabajo utilizado en proyectos de software con Git y GitHub desde la terminal de Visual Studio Code, aprendiendo a:
+Este ejercicio tiene como objetivo que el estudiante pueda practicar el flujo real de trabajo utilizado en proyectos de software con Git y GitHub desde la terminal de Visual Studio Code, aprendiendo a:
 
 - Crear un repositorio remoto desde cero.
 - Enlazarlo con un repositorio local.
