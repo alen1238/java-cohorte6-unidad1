@@ -50,7 +50,7 @@ El sistema debe permitir al usuario ingresar al sistema bancario.
 5.  Si falla los 3 intentos:
 
 ```{=html}
-    Ha eccedido el número de intentos. Cuenta bloqueada.
+    Ha excedido el número de intentos. Cuenta bloqueada.
 ```
 
 ### Conceptos que se practican

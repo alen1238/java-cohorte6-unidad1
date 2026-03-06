@@ -8,7 +8,6 @@ public class App {
     static int claveReal = 2026;
     static double saldo = 1_000_000d;
 
-
     public static void main(String[] args) throws Exception {
         login();
         if(next){
@@ -120,6 +119,7 @@ public class App {
           }
         } while (!opcion.equals("4"));
     }
+
 
 
 }
