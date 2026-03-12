@@ -9,13 +9,22 @@ public class App {
     static double saldo = 1_000_000d;
 
     public static void main(String[] args) throws Exception {
-        login();
+        login(); // llamado al método
         if(next){
             menu();
         }
+
+       int res = sumar(4,5);//llamando al método. Argumentos
+       System.out.println(res);
     }
 
-    //Ejercicio 1
+    public static int sumar(int a, int b){
+        int resultado = a + b;
+          return resultado;
+    }
+
+
+    //Declaración del metodo login()
     public static void login() {
 
         //Aqui ingresan los datos de la BBDD
@@ -86,7 +95,6 @@ public class App {
         sc.nextLine();
     }
 
-
     public static void menu() {
         String opcion;
         do {
@@ -120,6 +128,6 @@ public class App {
         } while (!opcion.equals("4"));
     }
 
-
+    
 
 }
